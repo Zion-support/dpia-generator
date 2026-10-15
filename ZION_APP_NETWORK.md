@@ -1,11 +1,10 @@
 # 🌐 Zion AI App Network
 
-Part of the **Zion AI App Network** — 770+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
-
+- 🌐 Live: https://ziontechgroup.com/dpia-generator/
+- 🗂️ Hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Restored D–E: https://ziontechgroup.com/zion-app-network/app/network-restored-d-e-2026-showcase.html
+- 🗺️ Master Directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+- 🔎 Discovery: https://ziontechgroup.com/discovery/
 - 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/dpia-generator/
-- 🔗 Related: [DPIA Assistant](https://ziontechgroup.com/dpia-assistant/) · [Vendor DPA Checker](https://ziontechgroup.com/vendor-dpa-checker/) · [Discovery](https://ziontechgroup.com/discovery/)
 
-© 2026 Zion Tech Group.
+Inspect README for documented status; publication is not proof of AI functionality.
